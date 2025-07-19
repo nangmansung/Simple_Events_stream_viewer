@@ -13,8 +13,8 @@ This application provides an interactive way to visualize event-based sensor dat
 
 -   **Load Data**: Loads event data from a local `.npy` file. <- You should do it at ".py file"
 -   **Customizable Display**: Set the height and width of the visualization grid.
--   **Event Navigation**: Process and view a specific number of new events at a time.
--   **Time Window Control**: Adjust the time duration (in microseconds) for accumulating events to display.
+-   **Event Navigation**: Process and view a specific number of new events at a time. <- [GO] button
+-   **Time Window Control**: Adjust the time duration (in microseconds) for accumulating events to display. <- [OK] button
 -   **Dual View Modes**:
     1.  **Real/Noise View**: Displays 'real' events in black and 'noise' events in orange.
     2.  **Highlight View**: Shows previously existing events in black and newly added events in orange.
