@@ -1,6 +1,6 @@
 # Simple Event Stream viewer
 
-A simple Streamlit viewer for real-time event stream data.
+A simple Streamlit viewer for real-time event stream(DVS, Dynamic vision sensor) data.
 
 Thank you for Gemini 2.5 pro
 <img width="1901" height="961" alt="Image" src="https://github.com/user-attachments/assets/9ee48cbc-8c40-4109-897e-6cc4f76f6c2b" />
