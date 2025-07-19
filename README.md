@@ -47,5 +47,5 @@ The application expects the `.npy` file to contain an array where each row repre
 -   `t`: Timestamp (integer, in microseconds)
 -   `x`: X-coordinate (integer)
 -   `y`: Y-coordinate (integer)
--   `p`: Polarity (0 or 1)
+-   `p`: Polarity (0 or 1) <- it does not used in ".py". Maybe later added. Now just for place hold
 -   `l`: Label (1 for a real event, 0 for a noise event)
