@@ -1,4 +1,4 @@
-# Event Stream Visualizer
+# Simple Event Stream viewer
 
 A simple Streamlit viewer for real-time event stream data.
 
